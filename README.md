@@ -26,7 +26,6 @@ Additionally, I am minoring in Statistics, concentrating on:
 I plan to attend graduate school, where I will continue my studies in both Computer Science and Physics. My primary research interest lies in quantum computing. My short-term goal is to pursue a Ph.D. and ultimately become a professor.
 
 ## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/%EC%84%A0%EC%A4%80-%ED%99%A9-860017267)
 - [Instagram](https://www.instagram.com/jun_bri0123)
 
 ## 🚀 Projects
