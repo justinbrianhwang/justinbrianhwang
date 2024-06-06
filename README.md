@@ -33,3 +33,6 @@ I plan to attend graduate school, where I will continue my studies in both Compu
 
 ## ✉️ Contact
 - Email: sunjun7559012@naver.com
+
+## 🌟 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
