@@ -2,13 +2,21 @@
 
 I'm living in Seoul, South Korea.
 
-## 💻 Skills
+## ![💻](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif) Skills
 
 - **Languages:**
   - ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
   - ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white)
   - ![C#](https://img.shields.io/badge/-C%23-239120?&logo=C-Sharp&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+    - ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white)
+    - ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white)
+    - ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
+    - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+    - ![Keras](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
+    - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
+    - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffdd54?&logo=Matplotlib&logoColor=black)
+    - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?&logo=Seaborn&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white)
   - ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=white)
