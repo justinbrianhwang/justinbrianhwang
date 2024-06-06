@@ -11,10 +11,11 @@ I'm living in Seoul, South Korea.
   - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white)
   - ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=white)
 - **Operating Systems:**
   - ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black)
-  - ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=white)
+
 
 ## 📚 Introduction
 Hello! I am currently majoring in Computer Science with a focus on:
