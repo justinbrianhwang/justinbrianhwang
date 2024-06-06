@@ -5,6 +5,7 @@ I'm living in Seoul, South Korea.
 ## 💻 Skills
 I am proficient in:
 - **Languages:** C, C++, C#, R, Java, and Python
+- **Operating Systems:** Windows, Linux (Ubuntu)
 
 ## 📚 Introduction
 Hello! I am currently majoring in Computer Science with a focus on:
@@ -25,8 +26,10 @@ Additionally, I am minoring in Statistics, concentrating on:
 I plan to attend graduate school, where I will continue my studies in both Computer Science and Physics. My primary research interest lies in quantum computing. My short-term goal is to pursue a Ph.D. and ultimately become a professor.
 
 ## 🔗 Links
-- [instagram] (https://www.instagram.com/jun_bri0123)  
-- 
+- [LinkedIn](https://www.linkedin.com/in/%EC%84%A0%EC%A4%80-%ED%99%A9-860017267)
+- [Instagram](https://www.instagram.com/jun_bri0123)
 
-## 📊 GitHub Stats
-![Sunjun Justin Brian Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?justinbrianhwang=yourusername&show_icons=true&theme=radical)  
+## 🚀 Projects
+
+## ✉️ Contact
+- Email: sunjun7559012@naver.com
