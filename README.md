@@ -2,7 +2,7 @@
 
 I'm living in Seoul, South Korea.
 
-## ![💻](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif) Skills
+## 💻 Skills
 
 - **Languages:**
   - ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
