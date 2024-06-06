@@ -1,6 +1,10 @@
 🖐️hello I'm sunjun justin brian hwang. I'm living in seoul.
 💻I can C, C++, C#, R, Java, and Python.
-🏫I received my bachelor's degree at Yonsei University's Department of Software, I studied at __ for my master's degree and plan to study at __ for my doctoral degree.
-👑I currently received the Yonsei University Academic Excellence Award, ___.
-🪪The qualifications I have are __.
+
+# Introduction
+
+Hello, I am majoring in **Computer Science** (Artificial Intelligence, Computer Architecture, Circuits, Operating Systems) and minoring in **Physics** (Quantum Mechanics, Electromagnetism) and **Statistics** (Regression Analysis, Data Mining).
+
+I plan to attend graduate school, focusing on both Computer Science and Physics. In graduate school, I intend to research quantum computing, and my short-term goal is to study for a Ph.D. and become a professor.
+
 
