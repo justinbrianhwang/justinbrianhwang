@@ -27,17 +27,17 @@ I'm living in Seoul, South Korea.
     - ![CentOS](https://img.icons8.com/color/48/000000/centos.png) 
 
 ## 📚 Introduction
-Hello! I am currently majoring in Computer Science with a focus on:
+Hello! I am currently majoring in **Computer Science** with a focus on:
 - Artificial Intelligence
 - Computer Architecture
 - Circuits
 - Operating Systems
 
-I am also minoring in Physics with an emphasis on:
+I am also minoring in **Physics** with an emphasis on:
 - Quantum Mechanics
 - Electromagnetism
 
-Additionally, I am minoring in Statistics, concentrating on:
+Additionally, I am minoring in **Statistics**, concentrating on:
 - Regression Analysis
 - Data Mining
 
