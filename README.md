@@ -23,8 +23,8 @@ I'm living in Seoul, South Korea.
 - **Operating Systems:**
   - ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black)
-   - ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) **Ubuntu**
-   - ![CentOS](https://img.icons8.com/color/48/000000/centos.png) **CentOS**
+    - ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
+    - ![CentOS](https://img.icons8.com/color/48/000000/centos.png) 
 
 ## 📚 Introduction
 Hello! I am currently majoring in Computer Science with a focus on:
