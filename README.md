@@ -94,6 +94,7 @@ I plan to attend graduate school, where I will continue my studies in both Compu
 - Dong-kyu Lee
 - Ji-wan Son
 - Min-seak Jang
+- young-seak Yong
 
 ### Professor
 - Prof. Hong-Rae Lee
