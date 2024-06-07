@@ -1,6 +1,7 @@
 # Hello, I'm Sunjun Justin Brian Hwang 👋
 
 I'm living in Seoul, South Korea.
+I'm still an undergraduate student, but I'm going to be a great person soon.
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
