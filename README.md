@@ -3,6 +3,8 @@
 I'm living in Seoul, South Korea.
 I'm still an undergraduate student, but I'm going to be a great person soon.
 
+If you follow me, I will follow you right away.
+
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
