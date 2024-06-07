@@ -2,6 +2,16 @@
 
 I'm living in Seoul, South Korea.
 
+## 🌟 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+![Profile views](https://komarev.com/ghpvc/?username=USERNAME)
+
+## 🌟 GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 💻 Skills
 
 - **Languages:**
@@ -51,9 +61,6 @@ I plan to attend graduate school, where I will continue my studies in both Compu
 
 ## ✉️ Contact
 - Email: sunjun7559012@naver.com
-
-## 🌟 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## People who created Sun-jun justin brian Hwang
 
