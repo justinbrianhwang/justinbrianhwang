@@ -7,10 +7,6 @@ I'm living in Seoul, South Korea.
 
 ![Profile views](https://komarev.com/ghpvc/?username=USERNAME)
 
-## 🌟 GitHub Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 💻 Skills
 
