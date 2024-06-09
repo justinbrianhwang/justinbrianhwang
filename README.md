@@ -51,6 +51,7 @@ If you follow me, I will follow you right away.
 </table>
 
 
+
 ## 📚 Introduction
 Hello! I am currently majoring in **Computer Science** with a focus on:
 - Artificial Intelligence
