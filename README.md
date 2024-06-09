@@ -16,7 +16,7 @@ If you follow me, I will follow you right away.
 #### Languages
 <table>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="C" width="50"/><br/>C</td>
+    <td align="center"><img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" alt="C" width="50"/><br/>C</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="50"/><br/>C++</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="C#" width="50"/><br/>C#</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="50"/><br/>Python</td>
