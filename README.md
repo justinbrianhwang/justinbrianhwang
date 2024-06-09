@@ -29,24 +29,24 @@ If you follow me, I will follow you right away.
 #### Python Libraries and Frameworks
 <table>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/3961/3961474.png" alt="NumPy" width="50"/><br/>NumPy</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" alt="Pandas" width="50"/><br/>Pandas</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="scikit-learn" width="50"/><br/>scikit-learn</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
-    <td align="center"><img src="https://cdn-images-1.medium.com/max/1200/1*_kYF3cR1qOsd8Z-JDVaa1g.png" alt="Keras" width="50"/><br/>Keras</td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" alt="NumPy" width="50"/><br/>NumPy</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" width="50"/><br/>Pandas</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="50"/><br/>scikit-learn</td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="50"/><br/>Keras</td>
     <td align="center"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/><br/>PyTorch</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968700.png" alt="Matplotlib" width="50"/><br/>Matplotlib</td>
-    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="50"/><br/>Seaborn</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50"/><br/>Matplotlib</td>
+    <td align="center"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="50"/><br/>Seaborn</td>
   </tr>
 </table>
 
 #### Operating Systems
 <table>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="Windows" width="50"/><br/>Windows</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Icon-windows_os.svg/1200px-Icon-windows_os.svg.png" alt="Windows" width="50"/><br/>Windows</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" alt="Linux" width="50"/><br/>Linux</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Ubuntu" width="50"/><br/>Ubuntu</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/1239/1239021.png" alt="CentOS" width="50"/><br/>CentOS</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Ubuntu" width="50"/><br/>Ubuntu</td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/centos-icon-icon-2048x2048-ua0kcc83.png" alt="CentOS" width="50"/><br/>CentOS</td>
   </tr>
 </table>
 
