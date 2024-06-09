@@ -51,20 +51,36 @@ If you follow me, I will follow you right away.
 </table>
 
 
-## 📚 Introduction
-Hello! I am currently majoring in **Computer Science** with a focus on:
-- Artificial Intelligence
-- Computer Architecture
-- Circuits
-- Operating Systems
+## 📚Academic Focus
 
-I am also minoring in **Physics** with an emphasis on:
-- Quantum Mechanics
-- Electromagnetism
+### Majors and Minors
 
-Additionally, I am minoring in **Statistics**, concentrating on:
-- Regression Analysis
-- Data Mining
+#### Computer Science
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5043/5043967.png" alt="AI" width="50"/><br/>Artificial Intelligence</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1134/1134328.png" alt="Computer Architecture" width="50"/><br/>Computer Architecture</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILSVGPzuGwrs9jGfBT5MdJgv089xmK1BxJg&s" alt="Circuits" width="50"/><br/>Circuits</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" alt="Operating Systems" width="50"/><br/>Operating Systems</td>
+  </tr>
+</table>
+
+#### Physics
+<table>
+  <tr>
+    <td align="center"><img src="https://static.vecteezy.com/system/resources/previews/006/742/292/original/a-flat-style-of-quantum-physics-electron-icon-vector.jpg" alt="Quantum Mechanics" width="50"/><br/>Quantum Mechanics</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2649/2649741.png" alt="Electromagnetism" width="50"/><br/>Electromagnetism</td>
+  </tr>
+</table>
+
+#### Statistics
+<table>
+  <tr>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGByezs5Lv5KA7qlv31s33TRaK4a8Yv8etzU6tE81On3JG3NcKtgGny2SHQH7UHkzwTgY&usqp=CAU" alt="Regression Analysis" width="50"/><br/>Regression Analysis</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XwhvxHuouzFnj8CwQvH-WYmEhgn6Hdadqw&s" alt="Data Mining" width="50"/><br/>Data Mining</td>
+  </tr>
+</table>
+
 
 ## 🎓 Future Plans
 I plan to attend graduate school, where I will continue my studies in both Computer Science and Physics. My primary research interest lies in quantum computing. My short-term goal is to pursue a Ph.D. and ultimately become a professor.
