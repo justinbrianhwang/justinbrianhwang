@@ -92,7 +92,7 @@ I plan to attend graduate school, where I will continue my studies in both Compu
 ## 🚀 Projects
 
 ## ✉️ Contact
-- Email: sunjun7559012@naver.com
+- Email: sunjun7559@gmail.com
 
 ## People who created Sun-jun justin brian Hwang
 
