@@ -33,10 +33,10 @@ If you follow me, I will follow you right away.
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" alt="Pandas" width="50"/><br/>Pandas</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="scikit-learn" width="50"/><br/>scikit-learn</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919840.png" alt="Keras" width="50"/><br/>Keras</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" alt="PyTorch" width="50"/><br/>PyTorch</td>
+    <td align="center"><img src="https://cdn-images-1.medium.com/max/1200/1*_kYF3cR1qOsd8Z-JDVaa1g.png" alt="Keras" width="50"/><br/>Keras</td>
+    <td align="center"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/><br/>PyTorch</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968700.png" alt="Matplotlib" width="50"/><br/>Matplotlib</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/752/752605.png" alt="Seaborn" width="50"/><br/>Seaborn</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="50"/><br/>Seaborn</td>
   </tr>
 </table>
 
@@ -49,7 +49,6 @@ If you follow me, I will follow you right away.
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/1239/1239021.png" alt="CentOS" width="50"/><br/>CentOS</td>
   </tr>
 </table>
-
 
 
 ## 📚 Introduction
