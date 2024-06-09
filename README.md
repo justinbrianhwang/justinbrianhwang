@@ -13,27 +13,43 @@ If you follow me, I will follow you right away.
 
 ## 💻 Skills
 
-- **Languages:**
-  - ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white)
-  - ![C#](https://img.shields.io/badge/-C%23-239120?&logo=C-Sharp&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
-    - ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white)
-    - ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white)
-    - ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
-    - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
-    - ![Keras](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
-    - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
-    - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffdd54?&logo=Matplotlib&logoColor=black)
-    - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?&logo=Seaborn&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white)
-  - ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
-  - ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=white)
-- **Operating Systems:**
-  - ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black)
-    - ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
-    - ![CentOS](https://img.icons8.com/color/48/000000/centos.png) 
+#### Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="C" width="50"/><br/>C</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="50"/><br/>C++</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="C#" width="50"/><br/>C#</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="50"/><br/>Python</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="50"/><br/>Java</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" alt="R" width="50"/><br/>R</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968517.png" alt="Rust" width="50"/><br/>Rust</td>
+  </tr>
+</table>
+
+#### Python Libraries and Frameworks
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/3961/3961474.png" alt="NumPy" width="50"/><br/>NumPy</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" alt="Pandas" width="50"/><br/>Pandas</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="scikit-learn" width="50"/><br/>scikit-learn</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919840.png" alt="Keras" width="50"/><br/>Keras</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" alt="PyTorch" width="50"/><br/>PyTorch</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968700.png" alt="Matplotlib" width="50"/><br/>Matplotlib</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/752/752605.png" alt="Seaborn" width="50"/><br/>Seaborn</td>
+  </tr>
+</table>
+
+#### Operating Systems
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="Windows" width="50"/><br/>Windows</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" alt="Linux" width="50"/><br/>Linux</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Ubuntu" width="50"/><br/>Ubuntu</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/1239/1239021.png" alt="CentOS" width="50"/><br/>CentOS</td>
+  </tr>
+</table>
+
 
 ## 📚 Introduction
 Hello! I am currently majoring in **Computer Science** with a focus on:
