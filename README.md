@@ -94,9 +94,7 @@ Moreover, I have also focused on Statistics, studying Regression Analysis and Da
 My interdisciplinary academic background and research experiences have prepared me well for the challenges of graduate studies. I am eager to contribute to the advancement of quantum computing and share my knowledge with future generations as a professor.
 
 ## 🔗 Links
-- [Instagram](https://www.instagram.com/jun_bri0123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
+[Instagram](https://www.instagram.com/jun_bri0123)
 
 ## ✉️ Contact
 - Email: sunjun7559@gmail.com
