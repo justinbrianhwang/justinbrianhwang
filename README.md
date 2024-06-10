@@ -5,8 +5,8 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 
 If you follow me, I will follow you right away.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username="sj hwang"&show_icons=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username="sj hwang"&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinbrianhwang&show_icons=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=justinbrianhwang&theme=react-dark)
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
