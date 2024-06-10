@@ -87,6 +87,14 @@ If you follow me, I will follow you right away.
 ## 🎓 Future Plans
 I plan to attend graduate school, where I will continue my studies in both Computer Science and Physics. My primary research interest lies in quantum computing. My short-term goal is to pursue a Ph.D. and ultimately become a professor.
 
+In the field of Computer Science, I have developed a strong foundation in various subjects including Artificial Intelligence, Computer Architecture, Circuits, Operating Systems, and Mathematics. These courses have equipped me with a solid understanding of the theoretical and practical aspects of computing, which are crucial for quantum computing research.
+
+In addition to my Computer Science background, my studies in Physics have covered fundamental areas such as Quantum Mechanics and Electromagnetism. These subjects are directly related to my research interest in quantum computing, providing me with the necessary knowledge of the underlying physical principles.
+
+Moreover, I have also focused on Statistics, studying Regression Analysis and Data Mining. These skills are essential for analyzing data and developing algorithms, which are integral parts of research in quantum computing.
+
+My interdisciplinary academic background and research experiences have prepared me well for the challenges of graduate studies. I am eager to contribute to the advancement of quantum computing and share my knowledge with future generations as a professor.
+
 ## 🔗 Links
 - [Instagram](https://www.instagram.com/jun_bri0123)
 
