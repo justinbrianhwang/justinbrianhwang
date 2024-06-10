@@ -5,15 +5,15 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 
 If you follow me, I will follow you right away.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=justinbrianhwang&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-
 ## 💻 Skills
 
-#### Languages
+### Languages
 <table>
   <tr>
     <td align="center"><img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" alt="C" width="50"/><br/>C</td>
@@ -27,7 +27,7 @@ If you follow me, I will follow you right away.
   </tr>
 </table>
 
-#### Python Libraries and Frameworks
+### Python Libraries and Frameworks
 <table>
   <tr>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" alt="NumPy" width="50"/><br/>NumPy</td>
@@ -41,7 +41,7 @@ If you follow me, I will follow you right away.
   </tr>
 </table>
 
-#### Operating Systems
+### Operating Systems
 <table>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Icon-windows_os.svg/1200px-Icon-windows_os.svg.png" alt="Windows" width="50"/><br/>Windows</td>
@@ -51,8 +51,7 @@ If you follow me, I will follow you right away.
   </tr>
 </table>
 
-
-## 📚Academic Focus
+## 📚 Academic Focus
 
 ### Majors and Minors
 
@@ -83,7 +82,6 @@ If you follow me, I will follow you right away.
   </tr>
 </table>
 
-
 ## 🎓 Future Plans
 I plan to attend graduate school, where I will continue my studies in both Computer Science and Physics. My primary research interest lies in quantum computing. My short-term goal is to pursue a Ph.D. and ultimately become a professor.
 
@@ -97,13 +95,16 @@ My interdisciplinary academic background and research experiences have prepared 
 
 ## 🔗 Links
 - [Instagram](https://www.instagram.com/jun_bri0123)
-
-## 🚀 Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
 
 ## ✉️ Contact
 - Email: sunjun7559@gmail.com
 
-## People who created Sun-jun justin brian Hwang
+## 🎖️ Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+
+## 👥 People who created Sun-jun justin brian Hwang
 
 ### Senior
 - Gun-Oh Kim
