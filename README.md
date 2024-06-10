@@ -4,6 +4,9 @@ I'm living in Seoul, South Korea.
 I'm still an undergraduate student, but I'm going to be a great person soon.
 
 If you follow me, I will follow you right away.
+github-snake/.github/workflows
+![GitHub Snake](https://raw.githubusercontent.com/justinbrianhwang/github-snake/.github/workflows/main/dist/snake.svg)
+
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
