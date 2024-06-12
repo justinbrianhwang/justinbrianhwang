@@ -94,9 +94,10 @@ My interdisciplinary academic background and research experiences have prepared 
 
 ## 🔗 Contact
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jun_bri0123)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunjun7559@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%A0%EC%A4%80-%ED%99%A9-860017267/)
-[![SMS](https://img.shields.io/badge/SMS-4CAF50?style=flat&logo=sms&logoColor=white)](sms:+821082407559)
 
 ## 🎖️ Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
