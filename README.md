@@ -21,6 +21,7 @@ If you follow me, I will follow you right away.
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="50"/><br/>Python</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="50"/><br/>Java</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" alt="R" width="50"/><br/>R</td>
+    <td align="center"><img src="https://static.thenounproject.com/png/272740-200.png" alt="Shell" width="50"/><br/>Shell</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png" alt="Rust" width="50"/><br/>Rust</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/9748/9748677.png" alt="ASM" width="50"/><br/>ASM</td>
   </tr>
