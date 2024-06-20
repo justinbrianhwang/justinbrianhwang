@@ -63,6 +63,7 @@ If you follow me, I will follow you right away.
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILSVGPzuGwrs9jGfBT5MdJgv089xmK1BxJg&s" alt="Circuits" width="50"/><br/>Circuits</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" alt="Operating Systems" width="50"/><br/>Operating Systems</td>
     <td align="center"><img src="https://cdn2.iconfinder.com/data/icons/learning-1/64/stem-education-science-technology-engineering-math-512.png" alt="Mathematics" width="50"/><br/>Mathematics</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5906/5906160.png" alt="software engineering" width="50"/><br/>software engineering</td>
   </tr>
 </table>
 
