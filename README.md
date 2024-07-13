@@ -162,6 +162,35 @@ My interdisciplinary academic background and research experiences have prepared 
 |---------------|--------------------|---------------|-------------|
 
 
+### Blood Donation Records
 
-
+| Donation Date | Donation Type       | Organization       | Location        |
+|---------------|---------------------|--------------------|-----------------|
+| 06-10-2018    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 19-12-2018    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 05-05-2019    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 08-08-2019    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 12-10-2019    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 20-12-2019    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 03-03-2020    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 11-05-2020    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 09-08-2020    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 12-10-2020    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 21-12-2020    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 04-04-2021    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 20-06-2021    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 04-12-2021    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 29-01-2022    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 27-03-2022    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 22-05-2022    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 23-07-2022    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 06-12-2022    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 29-01-2022    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 04-03-2023    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 06-05-2023    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 08-07-2023    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 30-09-2023    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 09-12-2023    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 09-03-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
+| 11-05-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |
 
