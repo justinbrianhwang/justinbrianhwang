@@ -155,3 +155,13 @@ My interdisciplinary academic background and research experiences have prepared 
 ### Celebrity
 - John von Neumann (Computer Architecture)
 - Niels Henrik David Bohr (Quantum Mechanics)
+
+### Certificate
+
+| Certificate image | Certification Name       | Issuing authority    | Date of issue  |
+|---------------|--------------------|---------------|-------------|
+
+
+
+
+
