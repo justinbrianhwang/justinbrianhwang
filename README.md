@@ -113,7 +113,6 @@ My interdisciplinary academic background and research experiences have prepared 
 - Sang-woo Shin
 
 ### Friend
-- Geon-il Byun
 - Ji-seong Jeong
 - Jun-won Min
 - Sung-won Cho
