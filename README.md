@@ -159,7 +159,7 @@ My interdisciplinary academic background and research experiences have prepared 
 
 | Certificate image | Certification Name       | Issuing authority    | Date of issue  |
 |---------------|--------------------|---------------|-------------|
-
+| ![Yonsei University Academic Excellence Award](https://i.imgur.com/XefwqHY.jpeg)|Yonsei University Academic Excellence Award|Yonsei Unversity|26-02-2024|
 
 ### Blood Donation Records
 
