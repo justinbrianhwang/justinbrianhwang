@@ -191,4 +191,5 @@ My interdisciplinary academic background and research experiences have prepared 
 | 09-12-2023    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     24      |
 | 09-03-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     25      |
 | 11-05-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     26      |
+| 21-07-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     27      |
 
