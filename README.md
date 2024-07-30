@@ -154,9 +154,9 @@ My interdisciplinary academic background and research experiences have prepared 
 - John von Neumann (Computer Architecture)
 - Niels Henrik David Bohr (Quantum Mechanics)
 
-### Certificate
+### Certificate & crape
 
-| Certificate image         | Certification Name                       | Issuing authority  | Date of issue |
+| Certificate&crape image         | Certification&crape Name                       | Issuing authority  | Date of issue |
 |----------------------------------------|------------------------------------------|--------------------|---------------|
 | <img src="https://i.imgur.com/XefwqHY.jpeg" alt="Yonsei University Academic Excellence Award" width="150"/> | Yonsei University Academic Excellence Award | Yonsei University | 26-02-2024    |
 
