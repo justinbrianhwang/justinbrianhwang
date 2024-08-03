@@ -136,7 +136,7 @@ My interdisciplinary academic background and research experiences have prepared 
 - Ju-won Park
 - Eun-hyuk Park
 - Joon Han
-- Hyo-sung Shin
+- Hyo-seung Shin
 - Seok-Hee Young
 - Dong-kyu Lee
 - Ji-wan Son
