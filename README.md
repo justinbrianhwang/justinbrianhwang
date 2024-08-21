@@ -32,7 +32,7 @@ If you follow me, I will follow you right away.
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="NumPy" width="50"/><br/>NumPy</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" width="50"/><br/>Pandas</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="50"/><br/>scikit-learn</td>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9NwuYEJoddRh-YGGyoQU0xJ3TqTKdf99nQ&s" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="50"/><br/>Keras</td>
     <td align="center"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/><br/>PyTorch</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50"/><br/>Matplotlib</td>
