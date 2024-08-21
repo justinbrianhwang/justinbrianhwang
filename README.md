@@ -46,7 +46,7 @@ If you follow me, I will follow you right away.
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Icon-windows_os.svg/1200px-Icon-windows_os.svg.png" alt="Windows" width="50"/><br/>Windows</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" alt="Linux" width="50"/><br/>Linux</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Ubuntu" width="50"/><br/>Ubuntu</td>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/centos-icon-icon-2048x2048-ua0kcc83.png" alt="CentOS" width="50"/><br/>CentOS</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGwiKmSpB5rVTdMhNsM0lEBafqnD29IvKsSw&s" alt="CentOS" width="50"/><br/>CentOS</td>
   </tr>
 </table>
 
