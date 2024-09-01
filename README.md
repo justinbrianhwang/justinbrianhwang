@@ -94,6 +94,27 @@ If you follow me, I will follow you right away.
   </tr>
 </table>
 
+
+## 👨‍🎓 BA in Computer Science, Statics, Physics, Yonsei University
+
+### 📚 Summary of Undergraduate Studies
+
+### 1. **Core Courses**
+   - **Opensource and Linux system**  
+   - **Data Structures and Algorithms**  
+   - **Operating Systems**  
+   - **Computer Architecture**  
+   - **Database Systems**
+   - **OBJECT-ORINTED PROGRAMMING**
+   - **SYSTEM PROGRAMING**
+   - **SIGNALS AND SYSTEMS**
+
+### 2. **Advanced Courses**
+   - **Artificial Intelligence**  
+   - **Software Engineering**
+   - **NATURAL LANGUAGE PROCESSING**
+
+
 ## 🎓 Future Plans
 I plan to attend graduate school, where I will continue my studies in both Computer Science and Physics. My primary research interest lies in quantum computing. My short-term goal is to pursue a Ph.D. and ultimately become a professor.
 
