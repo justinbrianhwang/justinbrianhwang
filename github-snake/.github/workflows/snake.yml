@@ -21,3 +21,6 @@ jobs:
           git add -A
           git commit -m "Generate snake animation"
           git push
+permissions:
+  contents: write
+
