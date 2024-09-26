@@ -5,6 +5,8 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 
 If you follow me, I will follow you right away.
 
+![snake animation](https://github.com/justinbrianhwang/github-snake/blob/output/dist/snake.svg)
+
 
 
 ## 🌟 Visitor Count
