@@ -5,6 +5,29 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 
 If you follow me, I will follow you right away.
 
+## Career 
+team **RiftStat** 2024.01.15 ~
+- Game analysis
+- Front-end developer(Html+CSS)
+
+team **Neural Networks** 2024.03.02 ~
+- Data analysis, Draw chart
+- Python programing(using pandas, numpy, etc.)
+
+team **InnoMedics** 2024.03.20 ~ 04.19
+- Data analysis & Medics
+- Team leader + Programming(Python, C)
+
+team **Turing-Machine** 2024.03.18~05.27
+- Making **Turing machine** with C
+- Team leader & Programming(C)
+
+team **ClimaEnergy Lab** 2024.09.22 ~ 
+- Deep learning-based climate-driven energy usage analysis
+- Programmning(python)
+- module: pandas, numpy, tensorflow, keras, etc.
+
+
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
