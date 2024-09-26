@@ -143,12 +143,12 @@ My interdisciplinary academic background and research experiences have prepared 
 - Brian, who studies quantum computing, and Jiwoong, who studies astrophysics, work together on artificial intelligence and their respective fields.
 - The programming language is basically python, but this is a team for learning and explaining concepts, so the programming language is not that important.
 - Original member, team leader 
-
-
+[link](https://github.com/SNC-Project)
 
 team **RiftStat** 2024.01.15 ~
 - Game analysis
 - Front-end developer(Html+CSS)
+[link](https://github.com/Rift-Stat)
 
 team **Neural Networks** 2024.03.02 ~
 - Data analysis, Draw chart
@@ -166,7 +166,7 @@ team **ClimaEnergy Lab** 2024.09.22 ~
 - Deep learning-based climate-driven energy usage analysis
 - Programmning(python)
 - module: pandas, numpy, tensorflow, keras, etc.
-
+[link](https://github.com/SNC-Project)
 
 
 
