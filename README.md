@@ -260,4 +260,5 @@ team **ClimaEnergy Lab** 2024.09.22 ~   [link](https://github.com/SNC-Project)
 | 09-03-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     25      |
 | 11-05-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     26      |
 | 21-07-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     27      |
+| 06-10-2024    | Whole Blood         | Korean Red Cross   | Seoul, Korea    |     28      |
 
