@@ -227,7 +227,7 @@ team **ClimaEnergy Lab** 2024.09.22 ~   [link](https://github.com/SNC-Project)
 | Certificate&crape image         | Certification&crape Name                       | Issuing authority  | Date of issue |
 |----------------------------------------|------------------------------------------|--------------------|---------------|
 | <img src="https://i.imgur.com/XefwqHY.jpeg" alt="Yonsei University Academic Excellence Award" width="150"/> | Yonsei University Academic Excellence Award | Yonsei University | 26-02-2024    |
-| <img src="https://i.imgur.com/Z3WdZ0g.jpeg" alt="Yonsei University Academic Excellence Award" width="150"/> | Yonsei University Academic Excellence Award | Yonsei University | 26-02-2024    |
+| <img src="https://i.imgur.com/Z3WdZ0g.jpeg" alt="Yonsei University Academic Excellence Award" width="150"/> | Yonsei University Academic Excellence Award | Yonsei University | 30-08-2024    |
 
 
 ### Blood Donation Records
