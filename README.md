@@ -100,7 +100,7 @@ If you follow me, I will follow you right away.
 ### 📚 Summary of Undergraduate Studies
 
 ### 1. **Core Courses**
-   - **Opensource and Linux system**  
+   - **Opensource and Linux system** 
    - **Data Structures and Algorithms**  
    - **Operating Systems**  
    - **Computer Architecture**  
@@ -166,6 +166,12 @@ team **ClimaEnergy Lab** 2024.09.22 ~10.13  [link](https://github.com/SNC-Projec
 - Deep learning-based climate-driven energy usage analysis
 - Programmning(python)
 - module: pandas, numpy, tensorflow, keras, etc.
+- model developer - deep learning & data processing
+
+team **signal & Sytem** 2024.09.04 ~ [link]()
+- Team leader
+- Developer: Python, Html+css+Javascript
+- This is a team project from a course at Yonsei University.
 
 
 
