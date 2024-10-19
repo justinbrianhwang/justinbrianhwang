@@ -162,7 +162,7 @@ team **Turing-Machine** 2024.03.18~05.27
 - Making **Turing machine** with C
 - Team leader & Programming(C)
 
-team **ClimaEnergy Lab** 2024.09.22 ~   [link](https://github.com/SNC-Project)
+team **ClimaEnergy Lab** 2024.09.22 ~10.13  [link](https://github.com/SNC-Project)
 - Deep learning-based climate-driven energy usage analysis
 - Programmning(python)
 - module: pandas, numpy, tensorflow, keras, etc.
