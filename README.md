@@ -168,7 +168,7 @@ team **ClimaEnergy Lab** 2024.09.22 ~10.13  [link](https://github.com/SNC-Projec
 - module: pandas, numpy, tensorflow, keras, etc.
 - model developer - deep learning & data processing
 
-team **signal & Sytem** 2024.09.04 ~ [link]()
+team **Fourier Frontier** 2024.09.04 ~ [link](https://github.com/Fourier-Frontier)
 - Team leader
 - Developer: Python, Html+css+Javascript
 - This is a team project from a course at Yonsei University.
