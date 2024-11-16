@@ -60,7 +60,7 @@ team **Fourier Frontier** 2024.09.04 ~ [link](https://github.com/Fourier-Frontie
     <td align="center"><img src="https://static.thenounproject.com/png/272740-200.png" alt="Shell" width="50"/><br/>Shell</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png" alt="Rust" width="50"/><br/>Rust</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/9748/9748677.png" alt="ASM" width="50"/><br/>ASM</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/9748/9748677.png" alt="HTML" width="50"/><br/>HTML</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" width="50"/><br/>HTML</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50"/><br/>CSS</td>
     <td align="center"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" width="50"/><br/>Javascript</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/29/29540.png" alt="JSP" width="50"/><br/>JSP</td>
