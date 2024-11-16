@@ -9,6 +9,43 @@ If you follow me, I will follow you right away.
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
+## 🪪 Career 
+
+**SNC Project** [link](https://github.com/SNC-Project)
+- Brian, who studies quantum computing, and Jiwoong, who studies astrophysics, work together on artificial intelligence and their respective fields.
+- The programming language is basically python, but this is a team for learning and explaining concepts, so the programming language is not that important.
+- Original member, team leader 
+
+
+team **RiftStat** 2024.01.15 ~  [link](https://github.com/Rift-Stat)
+- Game analysis
+- Front-end developer(Html+CSS)
+
+
+team **Neural Networks** 2024.03.02 ~
+- Data analysis, Draw chart
+- Python programing(using pandas, numpy, etc.)
+
+team **InnoMedics** 2024.03.20 ~ 04.19
+- Data analysis & Medics
+- Team leader + Programming(Python, C)
+
+team **Turing-Machine** 2024.03.18~05.27
+- Making **Turing machine** with C
+- Team leader & Programming(C)
+
+team **ClimaEnergy Lab** 2024.09.22 ~10.13  [link](https://github.com/SNC-Project)
+- Deep learning-based climate-driven energy usage analysis
+- Programmning(python)
+- module: pandas, numpy, tensorflow, keras, etc.
+- model developer - deep learning & data processing
+
+team **Fourier Frontier** 2024.09.04 ~ [link](https://github.com/Fourier-Frontier)
+- Team leader
+- Developer: Python(Deep learning)
+- This is a team project from a course at Yonsei University.
+
+
 ## 💻 Skills
 
 ### Languages
@@ -135,43 +172,6 @@ My interdisciplinary academic background and research experiences have prepared 
 
 ## 🎖️ Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
-
-
-## 🪪 Career 
-
-**SNC Project** [link](https://github.com/SNC-Project)
-- Brian, who studies quantum computing, and Jiwoong, who studies astrophysics, work together on artificial intelligence and their respective fields.
-- The programming language is basically python, but this is a team for learning and explaining concepts, so the programming language is not that important.
-- Original member, team leader 
-
-
-team **RiftStat** 2024.01.15 ~  [link](https://github.com/Rift-Stat)
-- Game analysis
-- Front-end developer(Html+CSS)
-
-
-team **Neural Networks** 2024.03.02 ~
-- Data analysis, Draw chart
-- Python programing(using pandas, numpy, etc.)
-
-team **InnoMedics** 2024.03.20 ~ 04.19
-- Data analysis & Medics
-- Team leader + Programming(Python, C)
-
-team **Turing-Machine** 2024.03.18~05.27
-- Making **Turing machine** with C
-- Team leader & Programming(C)
-
-team **ClimaEnergy Lab** 2024.09.22 ~10.13  [link](https://github.com/SNC-Project)
-- Deep learning-based climate-driven energy usage analysis
-- Programmning(python)
-- module: pandas, numpy, tensorflow, keras, etc.
-- model developer - deep learning & data processing
-
-team **Fourier Frontier** 2024.09.04 ~ [link](https://github.com/Fourier-Frontier)
-- Team leader
-- Developer: Python, Html+css+Javascript
-- This is a team project from a course at Yonsei University.
 
 
 
