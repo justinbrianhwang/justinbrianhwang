@@ -223,6 +223,7 @@ team **Fourier Frontier** 2024.09.04 ~ [link](https://github.com/Fourier-Frontie
 - Prof. Hyeong Choi
 - Prof. Jonghwi Song
 - Prof. Jaekwon Kim
+- Prof. Yohan Ko
 
 ### Celebrity
 - John von Neumann (Computer Architecture)
