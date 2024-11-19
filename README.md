@@ -17,7 +17,7 @@ If you follow me, I will follow you right away.
 - Original member, team leader 
 
 
-team **RiftStat** 15.01.2024 ~  [link](https://github.com/Rift-Stat)
+team **RiftStat** 15.01.2024- [link](https://github.com/Rift-Stat)
 - Game analysis
 - Front-end developer(Html+CSS)
 
