@@ -22,7 +22,7 @@ team **RiftStat** 15.01.2024 ~  [link](https://github.com/Rift-Stat)
 - Front-end developer(Html+CSS)
 
 
-team **Neural Networks** 02.03.2024 ~
+team **Neural Networks** 02.03.2024-
 - Data analysis, Draw chart
 - Python programing(using pandas, numpy, etc.)
 
@@ -30,22 +30,22 @@ team **InnoMedics** 20.03.2024 ~ 19.04.2024
 - Data analysis & Medics
 - Team leader + Programming(Python, C)
 
-team **Turing-Machine** 18.03.2024 ~ 27.05.2024
+team **Turing-Machine** 18.03.2024-27.05.2024
 - Making **Turing machine** with C
 - Team leader & Programming(C)
 
-team **ClimaEnergy Lab** 22.09.2024 ~ 13.10.2024  [link](https://github.com/SNC-Project)
+team **ClimaEnergy Lab** 22.09.2024-13.10.2024  [link](https://github.com/SNC-Project)
 - Deep learning-based climate-driven energy usage analysis
 - Programmning(python)
 - module: pandas, numpy, tensorflow, keras, etc.
 - model developer - deep learning & data processing
 
-team **Fourier Frontier** 04.09.2024 ~ [link](https://github.com/Fourier-Frontier)
+team **Fourier Frontier** 04.09.2024- [link](https://github.com/Fourier-Frontier)
 - Team leader
 - Developer: Python(Deep learning)
 - This is a team project from a course at Yonsei University.
 
-team **YonseiDatabase-SJ-DH** 30.10.2024 ~ 27.11.2024 [link](https://github.com/YonseiDatabase-SJ-DH)
+team **YonseiDatabase-SJ-DH** 30.10.2024-27.11.2024 [link](https://github.com/YonseiDatabase-SJ-DH)
 - Collaboration
 - Developer: Python(making random data), SQL
 - This is a team project from a course at Yonsei University.
