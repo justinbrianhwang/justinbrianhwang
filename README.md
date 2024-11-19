@@ -17,32 +17,37 @@ If you follow me, I will follow you right away.
 - Original member, team leader 
 
 
-team **RiftStat** 2024.01.15 ~  [link](https://github.com/Rift-Stat)
+team **RiftStat** 15.01.2024 ~  [link](https://github.com/Rift-Stat)
 - Game analysis
 - Front-end developer(Html+CSS)
 
 
-team **Neural Networks** 2024.03.02 ~
+team **Neural Networks** 02.03.2024 ~
 - Data analysis, Draw chart
 - Python programing(using pandas, numpy, etc.)
 
-team **InnoMedics** 2024.03.20 ~ 04.19
+team **InnoMedics** 20.03.2024 ~ 19.04.2024
 - Data analysis & Medics
 - Team leader + Programming(Python, C)
 
-team **Turing-Machine** 2024.03.18~05.27
+team **Turing-Machine** 18.03.2024 ~ 27.05.2024
 - Making **Turing machine** with C
 - Team leader & Programming(C)
 
-team **ClimaEnergy Lab** 2024.09.22 ~10.13  [link](https://github.com/SNC-Project)
+team **ClimaEnergy Lab** 22.09.2024 ~ 13.10.2024  [link](https://github.com/SNC-Project)
 - Deep learning-based climate-driven energy usage analysis
 - Programmning(python)
 - module: pandas, numpy, tensorflow, keras, etc.
 - model developer - deep learning & data processing
 
-team **Fourier Frontier** 2024.09.04 ~ [link](https://github.com/Fourier-Frontier)
+team **Fourier Frontier** 04.09.2024 ~ [link](https://github.com/Fourier-Frontier)
 - Team leader
 - Developer: Python(Deep learning)
+- This is a team project from a course at Yonsei University.
+
+team **YonseiDatabase-SJ-DH** 30.10.2024 ~ 27.11.2024 [link](https://github.com/YonseiDatabase-SJ-DH)
+- Collaboration
+- Developer: Python(making random data), SQL
 - This is a team project from a course at Yonsei University.
 
 
