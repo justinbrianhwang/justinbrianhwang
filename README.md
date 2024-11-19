@@ -26,7 +26,7 @@ team **Neural Networks** 02.03.2024-
 - Data analysis, Draw chart
 - Python programing(using pandas, numpy, etc.)
 
-team **InnoMedics** 20.03.2024 ~ 19.04.2024
+team **InnoMedics** 20.03.2024-19.04.2024
 - Data analysis & Medics
 - Team leader + Programming(Python, C)
 
