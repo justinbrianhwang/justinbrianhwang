@@ -16,6 +16,13 @@ If you follow me, I will follow you right away.
 - The programming language is basically python, but this is a team for learning and explaining concepts, so the programming language is not that important.
 - Original member, team leader 
 
+**RAISE Lab** 
+- **Undergraduate research students**
+- Yonsei University
+- Reliabile computing & Quantum computing
+- Deep learning, Computer Architecture, Assembly Language
+
+
 
 team **RiftStat** 15.01.2024- [link](https://github.com/Rift-Stat)
 - Game analysis
