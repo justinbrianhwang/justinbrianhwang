@@ -108,6 +108,9 @@ team **YonseiDatabase-SJ-DH** 30.10.2024-27.11.2024 [link](https://github.com/Yo
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual studio" width="50"/><br/>Visual studio</td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyAz7EYtjxd7TpFlyS0NB_uAOyo-mzi6it6A&s" alt="pycharm" width="50"/><br/>pycharm</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHQE89O5n7JuJZLQE3MCBysxZx3Y-JMiSGQ&s" alt="IntelliJ IDEA" width="50"/><br/>IntelliJ IDEA</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYehlCzA011cv7y5-5ceimFDz3O8NxFqLbug&s" alt="CLion" width="50"/><br/>CLion</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqL4EzSv7Uo9YnBPjZGxWHdmaf_8aoWLibg&s" alt="RustRover" width="50"/><br/>RustRover</td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMO5-ZBxhcvEXGCCv1aXv8GFo3hiHf8jaQXA&s" alt="putty" width="50"/><br/>putty</td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" alt="eclipse" width="50"/><br/>eclipse</td>
   </tr>
