@@ -9,53 +9,82 @@ If you follow me, I will follow you right away.
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-## 🪪 Career 
+# 🏆 Career & Projects
 
-**SNC Project** [link](https://github.com/SNC-Project)
-- Brian, who studies quantum computing, and Jiwoong, who studies astrophysics, work together on artificial intelligence and their respective fields.
-- The programming language is basically python, but this is a team for learning and explaining concepts, so the programming language is not that important.
-- Original member, team leader 
-
+## 👜Career
 **RAISE Lab** 
 - **Undergraduate research students**
 - Yonsei University
 - Reliabile computing & Quantum computing
 - Deep learning, Computer Architecture, Assembly Language
 
+## 💻 Project
 
+### 🚀 **SNC Project**  
+[🔗 GitHub](https://github.com/SNC-Project)
+- Duration: Ongoing
+- Role: Original Member, Team Leader
+- Description
+  - Brian (Quantum Computing) and Jiwoong (Astrophysics) collaborate to explore Artificial Intelligence and interdisciplinary research in their respective fields.
+  - The project primarily uses Python and C++, but the focus is on understanding and explaining concepts, making the programming language secondary to the purpose.
 
-team **RiftStat** 15.01.2024- [link](https://github.com/Rift-Stat)
-- Game analysis
-- Front-end developer(Html+CSS)
+### 🚀 **RiftStat**  
+[🔗 GitHub](https://github.com/Rift-Stat)
+- Duration: Starting January 15, 2024 - Ongoing
+- Role: Front-End Developer (HTML + CSS)
+- Description
+  - A game analysis project focused on improving gaming performance through data visualization and insights.
+  - Responsible for designing and developing the front-end interface using HTML and CSS.
 
+### 🚀 **Neural Networks**  
+- Duration: Starting March 2, 2024 - Ongoing
+- Role: Data Analyst
+- Description
+  - A project focused on analyzing data and visualizing results through charts and graphs.
+  - Utilized Python for data processing and analysis, leveraging libraries such as Pandas and NumPy.
 
-team **Neural Networks** 02.03.2024-
-- Data analysis, Draw chart
-- Python programing(using pandas, numpy, etc.)
+### 🚀 **InnoMedics**  
+- Duration: March 20, 2024 - April 19, 2024
+- Role: Team Leader, Programmer (Python, C)
+- Description
+  - A medical data analysis project aiming to bring innovation to the healthcare field.
+  - Led the team and contributed to software development using Python and C for data analysis and tool implementation.
 
-team **InnoMedics** 20.03.2024-19.04.2024
-- Data analysis & Medics
-- Team leader + Programming(Python, C)
+### 🚀 **Turing-Machine**  
+[🔗 GitHub Repository](https://github.com/justinbrianhwang/Computer-science-Project/tree/main/Project/C_programs/Turing%20machine)
+- Duration: March 18, 2024 - May 27, 2024
+- Role: Team Leader, Programmer (C)
+- Description
+  - Developed a Turing Machine simulator using the C programming language.
+  - Led the team in designing and implementing the simulator, focusing on computational theory applications.
 
-team **Turing-Machine** 18.03.2024-27.05.2024
-- Making **Turing machine** with C
-- Team leader & Programming(C)
+### 🚀 **ClimaEnergy Lab**  
+[🔗 GitHub](https://github.com/ClimaEnergy-Lab)
+- Duration: September 22, 2024 - October 13, 2024
+- Role: Model Developer (Deep Learning & Data Processing)
+- Description
+  - Conducted deep learning-based analysis of climate-driven energy usage patterns.
+  - Developed models and processed data using Python and various libraries, including Pandas, NumPy, TensorFlow, and Keras.
+  - Focused on leveraging machine learning techniques to identify energy usage trends influenced by climate factors.
 
-team **ClimaEnergy Lab** 22.09.2024-13.10.2024  [link](https://github.com/SNC-Project)
-- Deep learning-based climate-driven energy usage analysis
-- Programmning(python)
-- module: pandas, numpy, tensorflow, keras, etc.
-- model developer - deep learning & data processing
+### 🚀 **Fourier Frontier**  
+[🔗 GitHub](https://github.com/Fourier-Frontier)
+- Duration: Starting September 4, 2024 - Ongoing
+- Role: Team Leader, Main Developer (Python - Deep Learning), Project Coordinator
+- Description
+  - A team project from a course at Yonsei University, focusing on applying Fourier transformations in data analysis
+  - Served as the main developer, designing and implementing deep learning models using Python.
+  - Oversaw the entire project, coordinating tasks and ensuring timely completion of milestones.
 
-team **Fourier Frontier** 04.09.2024- [link](https://github.com/Fourier-Frontier)
-- Team leader
-- Developer: Python(Deep learning)
-- This is a team project from a course at Yonsei University.
+### 🚀 **YonseiDatabase-SJ-DH**  
+[🔗 GitHub](https://github.com/YonseiDatabase-SJ-DH)
+- Duration: October 30, 2024 - November 27, 2024
+- Role: Developer (Python - Random Data Generation, SQL), Team Leader
+- Description
+  - A team project from a course at Yonsei University, focusing on database management and analysis.
+  - Contributed by developing random data generation scripts using Python and implementing database queries with SQL.
+  - Collaborated with team members to design and optimize database schemas and queries for project objectives.
 
-team **YonseiDatabase-SJ-DH** 30.10.2024-27.11.2024 [link](https://github.com/YonseiDatabase-SJ-DH)
-- Collaboration
-- Developer: Python(making random data), SQL
-- This is a team project from a course at Yonsei University.
 
 
 ## 💻 Skills
