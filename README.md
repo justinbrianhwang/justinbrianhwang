@@ -89,7 +89,6 @@ If you follow me, I will follow you right away.
 
 ## 💻 Skills
 
-### Languages
 ![my skils](https://i.imgur.com/QQdAsaw.png)
 
 ## 📚 Academic Focus
