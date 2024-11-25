@@ -15,8 +15,8 @@ If you follow me, I will follow you right away.
 **RAISE Lab** 
 - **Undergraduate research students**
 - Yonsei University
-- Reliabile computing & Quantum computing
-- Deep learning, Computer Architecture, Assembly Language
+- Reliabile computing & Quantum computing & Deep Learning
+- Deep learning, Computer Architecture, Assembly Language, 
 
 ## 💻 Project
 
