@@ -90,61 +90,7 @@ If you follow me, I will follow you right away.
 ## 💻 Skills
 
 ### Languages
-<table>
-  <tr>
-    <td align="center"><img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" alt="C" width="50"/><br/>C</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="50"/><br/>C++</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="C#" width="50"/><br/>C#</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="50"/><br/>Python</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="50"/><br/>Java</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" alt="R" width="50"/><br/>R</td>
-    <td align="center"><img src="https://static.thenounproject.com/png/272740-200.png" alt="Shell" width="50"/><br/>Shell</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png" alt="Rust" width="50"/><br/>Rust</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/9748/9748677.png" alt="ASM" width="50"/><br/>ASM</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" width="50"/><br/>HTML</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50"/><br/>CSS</td>
-    <td align="center"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" width="50"/><br/>Javascript</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/29/29540.png" alt="JSP" width="50"/><br/>JSP</td>
-  </tr>
-</table>
-
-### Python Libraries and Frameworks
-<table>
-  <tr>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="NumPy" width="50"/><br/>NumPy</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" width="50"/><br/>Pandas</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="50"/><br/>scikit-learn</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9NwuYEJoddRh-YGGyoQU0xJ3TqTKdf99nQ&s" alt="TensorFlow" width="50"/><br/>TensorFlow</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="50"/><br/>Keras</td>
-    <td align="center"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/><br/>PyTorch</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50"/><br/>Matplotlib</td>
-    <td align="center"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="50"/><br/>Seaborn</td>
-  </tr>
-</table>
-
-### Operating Systems
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Icon-windows_os.svg/1200px-Icon-windows_os.svg.png" alt="Windows" width="50"/><br/>Windows</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" alt="Linux" width="50"/><br/>Linux</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Ubuntu" width="50"/><br/>Ubuntu</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGwiKmSpB5rVTdMhNsM0lEBafqnD29IvKsSw&s" alt="CentOS" width="50"/><br/>CentOS</td>
-  </tr>
-</table>
-
-### Tools
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual studio" width="50"/><br/>Visual studio</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyAz7EYtjxd7TpFlyS0NB_uAOyo-mzi6it6A&s" alt="pycharm" width="50"/><br/>pycharm</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHQE89O5n7JuJZLQE3MCBysxZx3Y-JMiSGQ&s" alt="IntelliJ IDEA" width="50"/><br/>IntelliJ IDEA</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYehlCzA011cv7y5-5ceimFDz3O8NxFqLbug&s" alt="CLion" width="50"/><br/>CLion</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqL4EzSv7Uo9YnBPjZGxWHdmaf_8aoWLibg&s" alt="RustRover" width="50"/><br/>RustRover</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMO5-ZBxhcvEXGCCv1aXv8GFo3hiHf8jaQXA&s" alt="putty" width="50"/><br/>putty</td>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" alt="eclipse" width="50"/><br/>eclipse</td>
-  </tr>
-</table>
-
+![my skils](https://i.imgur.com/QQdAsaw.png)
 
 ## 📚 Academic Focus
 
