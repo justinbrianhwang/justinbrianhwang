@@ -5,6 +5,13 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 
 If you follow me, I will follow you right away.
 
+## 💻 Skills
+
+![my skils](https://i.imgur.com/QQdAsaw.png)
+
+## 📚 Academic Focus
+![Focus](https://i.imgur.com/etdb9yH.png)
+
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
@@ -87,12 +94,6 @@ If you follow me, I will follow you right away.
 
 
 
-## 💻 Skills
-
-![my skils](https://i.imgur.com/QQdAsaw.png)
-
-## 📚 Academic Focus
-![Focus](https://i.imgur.com/etdb9yH.png)
 
 
 ## 👨‍🎓 BA in Computer Science, Statics, Physics, Yonsei University
