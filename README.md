@@ -92,37 +92,7 @@ If you follow me, I will follow you right away.
 ![my skils](https://i.imgur.com/QQdAsaw.png)
 
 ## 📚 Academic Focus
-
-### Majors and Minors
-
-#### Computer Science
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5043/5043967.png" alt="AI" width="50"/><br/>Artificial Intelligence</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1134/1134328.png" alt="Computer Architecture" width="50"/><br/>Computer Architecture</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILSVGPzuGwrs9jGfBT5MdJgv089xmK1BxJg&s" alt="Circuits" width="50"/><br/>Circuits</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" alt="Operating Systems" width="50"/><br/>Operating Systems</td>
-    <td align="center"><img src="https://cdn2.iconfinder.com/data/icons/learning-1/64/stem-education-science-technology-engineering-math-512.png" alt="Mathematics" width="50"/><br/>Mathematics</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5906/5906160.png" alt="software engineering" width="50"/><br/>software engineering</td>
-    <td align="center"><img src="https://cdn6.aptoide.com/imgs/6/1/f/61f879b07c2fba706d5a7d3bbc3ffaa3_icon.png" alt="Signals and Systems" width="50"/><br/>Signals and Systems</td>
-  </tr>
-</table>
-
-#### Physics
-<table>
-  <tr>
-    <td align="center"><img src="https://static.vecteezy.com/system/resources/previews/006/742/292/original/a-flat-style-of-quantum-physics-electron-icon-vector.jpg" alt="Quantum Mechanics" width="50"/><br/>Quantum Mechanics</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2649/2649741.png" alt="Electromagnetism" width="50"/><br/>Electromagnetism</td>
-  </tr>
-</table>
-
-#### Statistics
-<table>
-  <tr>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGByezs5Lv5KA7qlv31s33TRaK4a8Yv8etzU6tE81On3JG3NcKtgGny2SHQH7UHkzwTgY&usqp=CAU" alt="Regression Analysis" width="50"/><br/>Regression Analysis</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XwhvxHuouzFnj8CwQvH-WYmEhgn6Hdadqw&s" alt="Data Mining" width="50"/><br/>Data Mining</td>
-  </tr>
-</table>
+![Focus](https://i.imgur.com/etdb9yH.png)
 
 
 ## 👨‍🎓 BA in Computer Science, Statics, Physics, Yonsei University
