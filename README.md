@@ -10,7 +10,7 @@ If you follow me, I will follow you right away.
 ![my skils](https://i.imgur.com/QQdAsaw.png)
 
 ## 📚 Academic Focus
-![Focus](https://i.imgur.com/iWp8eLo.png)
+![Focus](https://i.imgur.com/Vluz3kt.png)
 
 
 ## 🌟 Visitor Count
