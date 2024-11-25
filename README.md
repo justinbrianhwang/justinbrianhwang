@@ -241,7 +241,7 @@ My interdisciplinary academic background and research experiences have prepared 
 - Sang-hyuk Choi
 - Jong-hoon Won
 - Jun-hyuk Kim
-- Sun-jae Kum
+- Sunje Kum
 - Jun-sung Yeom
 - Hyun-ki Jeon
 - Jun-young Park
