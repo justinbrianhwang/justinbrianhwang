@@ -137,61 +137,6 @@ My interdisciplinary academic background and research experiences have prepared 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 
-
-
-
-## 👥 People who created Sun-jun justin brian Hwang
-
-### Senior
-- Gun-Oh Kim
-- Jun-hyung Lee
-- Hee-seung Shin
-- Young-seok Jeong
-- Sang-woo Shin
-
-### Friend
-- Ji-seong Jeong
-- Jun-won Min
-- Sung-won Cho
-- Sang-hyuk Choi
-- Jong-hoon Won
-- Jun-hyuk Kim
-- Sunje Kum
-- Jun-sung Yeom
-- Hyun-ki Jeon
-- Jun-young Park
-- Bum-kyu Jang
-- Sung-wu Cho
-- Min-kyu Kim
-
-### Junior
-- Jae-o Lee
-- Ju-ham Song
-- Jin-a Min
-- Seo-young Song
-- Je-Hyun Yoon
-- Ju-won Park
-- Eun-hyuk Park
-- Joon Han
-- Hyo-seung Shin
-- Seok-Hee Young
-- Dong-kyu Lee
-- Ji-wan Son
-- Min-seak Jang
-- Yong-seok Won
-
-### Professor
-- Prof. Hong-Rae Lee
-- Prof. Seonghak Kim
-- Prof. Hyeong Choi
-- Prof. Jonghwi Song
-- Prof. Jaekwon Kim
-- Prof. Yohan Ko
-
-### Celebrity
-- John von Neumann (Computer Architecture)
-- Niels Henrik David Bohr (Quantum Mechanics)
-
 ### Certificate & crape
 
 | Certificate&crape image         | Certification&crape Name                       | Issuing authority  | Date of issue |
