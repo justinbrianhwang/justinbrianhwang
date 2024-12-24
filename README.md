@@ -76,7 +76,7 @@ If you follow me, I will follow you right away.
 
 ### 🚀 **Fourier Frontier**  
 [🔗 GitHub](https://github.com/Fourier-Frontier)
-- Duration: Starting September 4, 2024 - Ongoing
+- Duration: Starting September 4, 2024 - December 16, 2024
 - Role: Team Leader, Main Developer (Python - Deep Learning), Project Coordinator
 - Description
   - A team project from a course at Yonsei University, focusing on applying Fourier transformations in data analysis
