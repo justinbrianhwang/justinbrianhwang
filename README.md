@@ -44,8 +44,8 @@ If you follow me, I will follow you right away.
   - Responsible for designing and developing the front-end interface using HTML and CSS.
 
 ### 🚀 **Neural Networks**  
-- Duration: Starting March 2, 2024 - Ongoing
-- Role: Data Analyst
+- Duration: Starting March 2, 2024 - December 20, 2024
+- Role: Data Analyst, Programmer(python)
 - Description
   - A project focused on analyzing data and visualizing results through charts and graphs.
   - Utilized Python for data processing and analysis, leveraging libraries such as Pandas and NumPy.
