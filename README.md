@@ -12,7 +12,6 @@ If you follow me, I will follow you right away.
 ## 📚 Academic Focus
 ![Focus](https://i.imgur.com/Vluz3kt.png)
 
-
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
