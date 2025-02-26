@@ -31,8 +31,17 @@ If you follow me, I will follow you right away.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0080FF?style=flat-square&logo=plotly&logoColor=white)
 
-## 📚 Academic Focus
-![Focus](https://i.imgur.com/Vluz3kt.png)
+## 🖥️ My Fields of Interest
+- 🎯 **Artificial Intelligence (ML + DL)**
+- 🏗 **Computer Architecture**
+- ⚡ **Circuit Theory**
+- 🖥 **Operating System**
+- 🔢 **Mathematics**
+- 🛠 **Software Engineering**
+- ⚛ **Quantum Mechanics**
+- 📊 **Data Mining**
+- 👁 **Computer Vision**
+
 
 ## 🌟 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
