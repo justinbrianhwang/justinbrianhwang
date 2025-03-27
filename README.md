@@ -31,6 +31,15 @@ If you follow me, I will follow you right away.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0080FF?style=flat-square&logo=plotly&logoColor=white)
 
+
+## 👨‍💻 Quantum Computing
+![IBM Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge)
+![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-000000?logo=ibm&logoColor=white&style=for-the-badge)
+![Google Quantum AI](https://img.shields.io/badge/Google_Quantum_AI-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing_Enthusiast-800080?style=for-the-badge)
+
+
+
 ## 🖥️ My Fields of Interest
 - 🎯 **Artificial Intelligence (ML + DL)**
 - 🏗 **Computer Architecture**
