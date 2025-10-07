@@ -16,6 +16,7 @@ If you follow me, I will follow you right away.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
 
+
 ## 🌐 Web & Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -30,6 +31,10 @@ If you follow me, I will follow you right away.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0080FF?style=flat-square&logo=plotly&logoColor=white)
+![PyBullet](https://img.shields.io/badge/PyBullet-1A6FFF?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=c%2B%2B&logoColor=white)
+
 
 
 ## 👨‍💻 Quantum Computing
