@@ -3,7 +3,8 @@
 I'm living in Seoul, South Korea.
 I'm still an undergraduate student, but I'm going to be a great person soon.
 
-If you follow me, I will follow you right away.
+<img width="2000" height="600" alt="Linked" src="https://github.com/user-attachments/assets/294e2ee6-d598-4ced-90ef-b4717da9e99a" />
+
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
