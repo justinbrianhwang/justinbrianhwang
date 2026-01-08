@@ -3,7 +3,8 @@
 I'm living in Seoul, South Korea.
 I'm still an undergraduate student, but I'm going to be a great person soon.
 
-<img width="2000" height="600" alt="Linked" src="https://github.com/user-attachments/assets/294e2ee6-d598-4ced-90ef-b4717da9e99a" />
+<img width="2000" height="600" alt="Linked in 배경" src="https://github.com/user-attachments/assets/0ca28917-c19d-492b-8eee-81fdd0137134" />
+
 
 
 ## 🛠 Tech Stack
