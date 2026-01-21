@@ -68,7 +68,5 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%A0%EC%A4%80-%ED%99%A9-860017267/)
 
 
-## 🎖️ Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=justinbrianhwang)
-
-
+## 🎖️ Professor
+- Yohan Ko
