@@ -69,6 +69,6 @@ I'm still an undergraduate student, but I'm going to be a great person soon.
 
 
 ## 🎖️ Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=justinbrianhwang)
 
 
