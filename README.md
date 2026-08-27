@@ -3,14 +3,16 @@
 <img src="assets/images/profile-card.png" alt="Sunjun Hwang - Quantum & AI & Autonomous Driving" width="680" />
 
 <p>
-  <b>Researcher</b> &nbsp;&mdash;&nbsp; AI Security · Quantum Computing · Systems &amp; Compilers<br>
+  <b>Researcher</b> &nbsp;&mdash;&nbsp; Quantum Computing · AI Security · Systems &amp; Compilers<br>
   <sub>B.S. in Software, Yonsei University &nbsp;·&nbsp; currently at ILSC Vancouver Campus, Canada</sub>
 </p>
 
 <p>
-  I work on making intelligent systems <b>trustworthy, efficient, and deployable</b> &mdash;
-  from adversarial robustness and federated learning security, through quantum algorithms
-  and NISQ-era circuits, down to the FPGA and compiler layers that actually run them.
+  My core is <b>quantum computing</b> &mdash; NISQ-era circuits, variational quantum
+  classifiers, and the security of BB84 key distribution. Around that core I work on what
+  makes any intelligent system <b>trustworthy and deployable</b>: adversarial robustness
+  and federated learning security, autonomous driving reliability, and the FPGA and
+  compiler layers that actually run these models.
 </p>
 
 <p>
@@ -39,10 +41,23 @@
 
 ## Research Areas
 
+<i>Quantum computing is the core. The surrounding areas are where I test
+whether those ideas survive contact with real systems.</i>
+
 <img src="assets/images/research-banner.png" alt="Research areas overview" width="100%" />
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### Quantum Computing &amp; Communication
+
+Quantum algorithms, NISQ-era circuits, and variational quantum classifiers.
+Quantum key distribution via the BB84 protocol and quantum-secured hybrid communication systems.
+
+<sub>Quantum ML · VQC · BB84 · PennyLane · Qiskit</sub>
+
+</td>
 <td width="50%" valign="top">
 
 ### AI Security
@@ -53,6 +68,8 @@ robustness, federated learning security, post-hoc defense, and fault injection.
 <sub>Adversarial Attack · FL Security · Fault Injection · Trustworthy AI</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Autonomous Driving
@@ -61,18 +78,6 @@ Autonomous driving systems built on Federated Learning and Large Language Models
 Optimizing FL across heterogeneous and homogeneous models in diverse driving environments.
 
 <sub>Federated Learning · LLM · Autonomous Driving · Simulation</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Quantum Computing &amp; Communication
-
-Quantum algorithms, NISQ-era circuits, and variational quantum classifiers.
-Quantum key distribution via the BB84 protocol and quantum-secured hybrid communication systems.
-
-<sub>Quantum ML · VQC · BB84 · PennyLane · Qiskit</sub>
 
 </td>
 <td width="50%" valign="top">
