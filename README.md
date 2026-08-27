@@ -4,7 +4,7 @@
 
 <p>
   <b>Researcher</b> &nbsp;&mdash;&nbsp; AI Security · Quantum Computing · Systems &amp; Compilers<br>
-  <sub>B.S. in Software, Yonsei University &nbsp;·&nbsp; currently at ILSC Vancouver Campus, Canada</sub>
+  <sub>B.S. in Computer Science &amp; Physics, Yonsei University &nbsp;·&nbsp; currently at ILSC Vancouver Campus, Canada</sub>
 </p>
 
 <p>
@@ -232,6 +232,46 @@ Teaching assistant and tutor, Yonsei University.
 
 | Period | Institution |
 | :--- | :--- |
+| Sep 2026 &ndash; Apr 2027 | **ILSC Language Schools**, Vancouver, Canada |
+| Mar 2022 &ndash; Aug 2026 | **B.S., Yonsei University** &mdash; Computer Science (AI) and Physics (Quantum Mechanics) |
+| Mar 2018 &ndash; Feb 2021 | Cheongdam High School, Seoul |
+| Mar 2015 &ndash; Feb 2018 | Bongeun Middle School, Seoul |
+| Mar 2009 &ndash; Feb 2015 | Eonbuk Elementary School, Seoul |
+
+<details>
+<summary><b>Relevant coursework and school activities</b></summary>
+
+**Yonsei University &mdash; relevant coursework**
+
+| Course | Focus |
+| :--- | :--- |
+| Artificial Intelligence | Supervised and unsupervised learning, neural networks, and real-world applications. |
+| Natural Language Processing | Linguistic structures, sentiment analysis, sequence-to-sequence models, text classification, and machine translation. |
+| Quantum Mechanics | Foundations of quantum theory with applications to quantum computing. |
+| Computer Architecture | System design, memory management, and processing units. |
+| Operating Systems | Process management, memory allocation, and file systems. |
+| Data Mining | Techniques for extracting knowledge and patterns from large datasets. |
+| Software Engineering | Design patterns, development methodologies, and team-based projects. |
+| Mathematics | Advanced concepts essential for computational modeling and algorithm development. |
+
+**ILSC Language Schools** &mdash; Intensive English program covering academic English,
+professional communication, and cross-cultural collaboration.
+
+**Cheongdam High School** &mdash; Class President for all three years. Computer club
+"Shift" deputy (2018), then president (2019). Science Golden Bell Grand Prize and
+Subject Excellence in Integrated Science. Volunteering across multicultural tutoring,
+coding education, and community service.
+
+**Bongeun Middle School** &mdash; Robotics, environmental science, and sports clubs,
+271 hours in total.
+
+**Eonbuk Elementary School** &mdash; Reading Award for four consecutive years
+(grades 1&ndash;4), plus awards in English, research presentation, and family
+newspaper contests.
+
+</details>
+
+--- | :--- |
 | Sep 2026 &ndash; Feb 2027 | ILSC Vancouver Campus, Canada |
 | Mar 2022 &ndash; Aug 2026 | **B.S. in Software**, Yonsei University |
 
