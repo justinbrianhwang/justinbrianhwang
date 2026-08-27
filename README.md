@@ -15,13 +15,18 @@
 
 <p>
   <a href="https://www.sjhwang.com/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.sjhwangresearch.com/"><img src="https://img.shields.io/badge/Research-0E7490?style=flat-square&logo=googlescholar&logoColor=white" alt="Research" /></a>
+  <a href="https://www.sjhwangresearch.com/"><img src="https://img.shields.io/badge/Research-0E7490?style=flat-square&logo=openaccess&logoColor=white" alt="Research" /></a>
+  <a href="https://sjhwangwiki.com/"><img src="https://img.shields.io/badge/Wiki-4B5563?style=flat-square&logo=bookstack&logoColor=white" alt="Wiki" /></a>
   <a href="https://www.sjhwangcv.com/"><img src="https://img.shields.io/badge/CV-1F2328?style=flat-square&logo=readdotcv&logoColor=white" alt="CV" /></a>
+  <a href="https://scholar.google.com/citations?user=6X2EVE0AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0007-5173-2876"><img src="https://img.shields.io/badge/ORCID-1F2328?style=flat-square&logo=orcid&logoColor=A6CE39" alt="ORCID" /></a>
 </p>
 
 <p>
   <a href="mailto:sunjun7559@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sunjunhwang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- LinkedIn logo is inlined as a data URI: simple-icons dropped the brand, so shields' logo=linkedin renders nothing. -->
+  <a href="https://www.linkedin.com/in/sunjunhwang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@sjquantumprof"><img src="https://img.shields.io/badge/YouTube-333333?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
   <a href="https://medium.com/@sunjun7559"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.instagram.com/jun_bri0123"><img src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
