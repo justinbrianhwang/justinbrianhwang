@@ -14,8 +14,15 @@
 </p>
 
 <p>
+  <a href="https://www.sjhwang.com/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.sjhwangresearch.com/"><img src="https://img.shields.io/badge/Research-0E7490?style=flat-square&logo=googlescholar&logoColor=white" alt="Research" /></a>
+  <a href="https://www.sjhwangcv.com/"><img src="https://img.shields.io/badge/CV-1F2328?style=flat-square&logo=readdotcv&logoColor=white" alt="CV" /></a>
+</p>
+
+<p>
   <a href="mailto:sunjun7559@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sunjunhwang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@sunjun7559"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.instagram.com/jun_bri0123"><img src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
