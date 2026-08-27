@@ -153,6 +153,52 @@ classical compiler and PL theory on LLVM.
 
 ---
 
+## Selected Projects
+
+**Quantum Computing &amp; Communication**
+
+| Project | Focus |
+| :--- | :--- |
+| [SCATTER](https://github.com/justinbrianhwang/SCATTER) | Information-theoretic bounds on telemetry-based intrusion detection in decoy-state BB84 QKD, and the DEGENERACY attack that steals the key while hiding in cheap telemetry. |
+| [TRACE](https://github.com/justinbrianhwang/TRACE) | Sequential attribution of eavesdropping versus natural noise in BB84 &mdash; identifiability limits, robust change-point detection, and security-preserving operation. |
+| [PHOTON](https://github.com/justinbrianhwang/PHOTON) | Research-grade BB84 QKD simulator with a C++ server, Qt6 dashboard, and Python client SDK. |
+| [qfilter](https://github.com/justinbrianhwang/qfilter) | Quantum Filter Zoo &mdash; quanvolution, QPF, and PQC convolution layers for PyTorch, built on PennyLane. |
+
+**Autonomous Driving**
+
+| Project | Focus |
+| :--- | :--- |
+| [MARSHAL](https://github.com/justinbrianhwang/MARSHAL) | Closed-loop CARLA benchmark for authority-aware driving: does the model obey a human traffic director when the directive overrides the traffic rule? |
+| [SD2](https://github.com/justinbrianhwang/SD2) | System Deviation Diagnosis &mdash; decomposes the end-to-end driving pipeline and localizes where robustness first collapses under stress. |
+| [TORSION](https://github.com/justinbrianhwang/TORSION) | Injects contract-preserving faults as excitation signals to identify which representation boundaries amplify errors into safety failures. |
+| [OpenEMMA-UI](https://github.com/justinbrianhwang/OpenEMMA-UI) | Real-time VLM-driven driving UI for CARLA, with Chain-of-Thought reasoning and multi-model vision-language backends. |
+
+**AI Security &amp; Federated Learning**
+
+| Project | Focus |
+| :--- | :--- |
+| [TopoTrace](https://github.com/justinbrianhwang/TopoTrace) | Oracle-calibrated topological auditing of machine unlearning: does forgotten data leave a persistent-homology trace in the representation space? |
+| [FALCON](https://github.com/justinbrianhwang/FALCON) | Failure attribution in federated learning &mdash; localizes which pipeline stage originated a failure via matched record-replay and causal interventions. |
+| [UA-D2OFL](https://github.com/justinbrianhwang/UA-D2OFL) | When does reliability-weighted multi-teacher distillation help diffusion-assisted one-shot federated learning? |
+| [fl-datafree-backdoor-detection](https://github.com/justinbrianhwang/fl-datafree-backdoor-detection) | Data-free backdoor detection in federated learning via reverse engineering. |
+
+**Medical AI**
+
+| Project | Focus |
+| :--- | :--- |
+| [CDG-QGAN](https://github.com/justinbrianhwang/CDG-QGAN) | Plants a clinical dependency graph into the entanglement topology of a shallow quantum circuit to generate synthetic MIMIC-IV ICU data. |
+| [qfz-de](https://github.com/justinbrianhwang/qfz-de) | Dequantization-aware benchmark of fixed quantum filter stems for low-data chest X-ray object detection on RSNA and VinDr-CXR. |
+| [chestxray-federated-learning](https://github.com/justinbrianhwang/chestxray-federated-learning) | Federated learning experiments on the NIH Chest X-ray14 dataset, with reproducible scripts and a local launcher. |
+
+**Robotics &amp; Systems**
+
+| Project | Focus |
+| :--- | :--- |
+| [Robot_LLM](https://github.com/justinbrianhwang/Robot_LLM) | Dexterous pick-and-place with a Franka arm and LEAP hand in MuJoCo &mdash; hardcoded control versus a local Qwen2.5-VL policy. |
+| [andamento](https://github.com/justinbrianhwang/andamento) | Budgeted autotuning of Pallas TPU kernels: how close to the exhaustive optimum can you get with 20&ndash;100 real measurements? |
+
+---
+
 ## Technical Stack
 
 **Languages**
