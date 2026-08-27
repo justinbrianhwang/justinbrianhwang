@@ -17,7 +17,6 @@
   <a href="mailto:sunjun7559@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sunjunhwang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/jun_bri0123"><img src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=justinbrianhwang&color=0A66C2&style=flat-square&label=Profile%20Views" alt="Profile views" />
 </p>
 
 ---
@@ -197,14 +196,7 @@ classical compiler and PL theory on LLVM.
 
 ---
 
-## GitHub Activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justinbrianhwang&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinbrianhwang&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2" alt="Top languages" />
-</p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=justinbrianhwang&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinbrianhwang/justinbrianhwang/output/snake-dark.svg" />
