@@ -4,13 +4,17 @@
 
 <p>
   <b>Researcher</b> &nbsp;&mdash;&nbsp; AI Security · Quantum Computing · Systems &amp; Compilers<br>
-  <sub>ILSC Vancouver Campus, Canada &nbsp;·&nbsp; from Seoul, South Korea</sub>
+  <sub>B.S. in Software, Yonsei University &nbsp;·&nbsp; currently at ILSC Vancouver Campus, Canada</sub>
 </p>
 
 <p>
   I work on making intelligent systems <b>trustworthy, efficient, and deployable</b> &mdash;
   from adversarial robustness and federated learning security, through quantum algorithms
   and NISQ-era circuits, down to the FPGA and compiler layers that actually run them.
+</p>
+
+<p>
+  <b>Currently seeking an integrated MS&ndash;PhD position in quantum computing.</b>
 </p>
 
 <p>
@@ -196,6 +200,40 @@ classical compiler and PL theory on LLVM.
 | :--- | :--- |
 | [Robot_LLM](https://github.com/justinbrianhwang/Robot_LLM) | Dexterous pick-and-place with a Franka arm and LEAP hand in MuJoCo &mdash; hardcoded control versus a local Qwen2.5-VL policy. |
 | [andamento](https://github.com/justinbrianhwang/andamento) | Budgeted autotuning of Pallas TPU kernels: how close to the exhaustive optimum can you get with 20&ndash;100 real measurements? |
+
+---
+
+## Experience &amp; Education
+
+**Research**
+
+| Period | Role |
+| :--- | :--- |
+| Dec 2024 &ndash; Present | **Undergraduate Researcher**, RAISE Lab &mdash; Reliable AI, System Engineering &amp; Quantum Computing, Yonsei University |
+
+Designing algorithms for AI reliability and interpretability, integrating reliability
+frameworks into models to improve robustness and trustworthiness, and working on
+interdisciplinary projects that bring quantum mechanics principles into computational
+engineering. Findings presented at lab seminars.
+
+**Teaching**
+
+Teaching assistant and tutor, Yonsei University.
+
+| Period | Course |
+| :--- | :--- |
+| Mar &ndash; Jun 2026 | Artificial Intelligence Mathematics |
+| Sep &ndash; Dec 2025 | Artificial Intelligence |
+| Mar &ndash; Jun 2025 | Engineering Mathematics (I) |
+| Mar &ndash; Jun 2025 | Calculus &amp; Vector Analysis (I) |
+| Sep &ndash; Dec 2024 | Java Programming |
+
+**Education**
+
+| Period | Institution |
+| :--- | :--- |
+| Sep 2026 &ndash; Feb 2027 | ILSC Vancouver Campus, Canada |
+| Mar 2022 &ndash; Aug 2026 | **B.S. in Software**, Yonsei University |
 
 ---
 
