@@ -4,7 +4,7 @@
 
 <p>
   <b>Researcher</b> &nbsp;&mdash;&nbsp; AI Security · Quantum Computing · Systems &amp; Compilers<br>
-  <sub>B.S. in Computer Science &amp; Physics, Yonsei University &nbsp;·&nbsp; currently at ILSC Vancouver Campus, Canada</sub>
+  <sub>B.S. in Software, Yonsei University &nbsp;·&nbsp; currently at ILSC Vancouver Campus, Canada</sub>
 </p>
 
 <p>
@@ -233,7 +233,7 @@ Teaching assistant and tutor, Yonsei University.
 | Period | Institution |
 | :--- | :--- |
 | Sep 2026 &ndash; Apr 2027 | **ILSC Language Schools**, Vancouver, Canada |
-| Mar 2022 &ndash; Aug 2026 | **B.S., Yonsei University** &mdash; Computer Science (AI) and Physics (Quantum Mechanics) |
+| Mar 2022 &ndash; Aug 2026 | **B.S. in Software**, Yonsei University &mdash; coursework across computer science (AI) and physics (quantum mechanics) |
 | Mar 2018 &ndash; Feb 2021 | Cheongdam High School, Seoul |
 | Mar 2015 &ndash; Feb 2018 | Bongeun Middle School, Seoul |
 | Mar 2009 &ndash; Feb 2015 | Eonbuk Elementary School, Seoul |
@@ -270,10 +270,6 @@ coding education, and community service.
 newspaper contests.
 
 </details>
-
---- | :--- |
-| Sep 2026 &ndash; Feb 2027 | ILSC Vancouver Campus, Canada |
-| Mar 2022 &ndash; Aug 2026 | **B.S. in Software**, Yonsei University |
 
 ---
 
