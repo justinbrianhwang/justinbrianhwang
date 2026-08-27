@@ -209,7 +209,7 @@ classical compiler and PL theory on LLVM.
 
 | Period | Role |
 | :--- | :--- |
-| Dec 2024 &ndash; Present | **Undergraduate Researcher**, RAISE Lab &mdash; Reliable AI, System Engineering &amp; Quantum Computing, Yonsei University |
+| Dec 2024 &ndash; Present | **Undergraduate Researcher**, RAISE Lab &mdash; Reliable AI, System Engineering &amp; Quantum Computing, Yonsei University. Advised by Professor Ko. |
 
 Designing algorithms for AI reliability and interpretability, integrating reliability
 frameworks into models to improve robustness and trustworthiness, and working on
