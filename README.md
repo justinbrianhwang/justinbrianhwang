@@ -163,6 +163,7 @@ classical compiler and PL theory on LLVM.
 | [TRACE](https://github.com/justinbrianhwang/TRACE) | Sequential attribution of eavesdropping versus natural noise in BB84 &mdash; identifiability limits, robust change-point detection, and security-preserving operation. |
 | [PHOTON](https://github.com/justinbrianhwang/PHOTON) | Research-grade BB84 QKD simulator with a C++ server, Qt6 dashboard, and Python client SDK. |
 | [qfilter](https://github.com/justinbrianhwang/qfilter) | Quantum Filter Zoo &mdash; quanvolution, QPF, and PQC convolution layers for PyTorch, built on PennyLane. |
+| [qfz-de](https://github.com/justinbrianhwang/qfz-de) | Dequantization-aware benchmark of fixed quantum filter stems for low-data chest X-ray object detection on RSNA and VinDr-CXR. |
 
 **Autonomous Driving**
 
@@ -187,7 +188,6 @@ classical compiler and PL theory on LLVM.
 | Project | Focus |
 | :--- | :--- |
 | [CDG-QGAN](https://github.com/justinbrianhwang/CDG-QGAN) | Plants a clinical dependency graph into the entanglement topology of a shallow quantum circuit to generate synthetic MIMIC-IV ICU data. |
-| [qfz-de](https://github.com/justinbrianhwang/qfz-de) | Dequantization-aware benchmark of fixed quantum filter stems for low-data chest X-ray object detection on RSNA and VinDr-CXR. |
 | [chestxray-federated-learning](https://github.com/justinbrianhwang/chestxray-federated-learning) | Federated learning experiments on the NIH Chest X-ray14 dataset, with reproducible scripts and a local launcher. |
 
 **Robotics &amp; Systems**
